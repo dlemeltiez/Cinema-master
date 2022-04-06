@@ -1,19 +1,16 @@
 # enc-new
 
-## Project setup
+## Installation du projet
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Lancement du projet
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+### Pour quittez le programme 
+--> ctlr + C
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
